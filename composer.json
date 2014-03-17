@@ -1,0 +1,18 @@
+{
+    "name": "zainiafzan/yii2-summernote",
+    "description": "Yii2 Super Simple WYSIWYG Editor on Bootstrap",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","summernote","wysiwyg"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zainiafzan",
+            "email": "zainiafzan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zainiafzan\\widget\\": ""
+        }
+    }
+}
